@@ -1,0 +1,1 @@
+# rmt-for-ghost
